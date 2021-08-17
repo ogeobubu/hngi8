@@ -10,8 +10,10 @@ Built a html page that contains an application(resumè) to join a team.
 
 [Resume Template using HTML5 and CSS3](https://ogeobubu-resume.netlify.app)
 
-[Zuri Team & i4G ](zuri.png)
-[HNG](hng.png)
+## HNG X ZURI X I4G
+
+![HNGi8](hng.png)
+![Zuri x I4G](zuri.png)
 
 ## License
 
